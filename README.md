@@ -1,152 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhargav Limbani | Portfolio</title>
+<h1 align="center">Hi 👋, I'm Bhargav Limbani</h1>
+<h3 align="center">A passionate frontend developer from Rajkot</h3>
 
-    <style>
-        *{
-            margin:0;
-            padding:0;
-            box-sizing:border-box;
-            font-family: Arial, sans-serif;
-        }
+- 🌱 I’m currently learning c++
 
-        body{
-            background:#f4f4f4;
-            color:#333;
-        }
+- 📫 How to reach me limbanibhargavmaheshbhai@gmail.com
 
-        header{
-            background:#0d6efd;
-            color:white;
-            text-align:center;
-            padding:50px 20px;
-        }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@bpatel1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bpatel1707" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhargav limbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargav limbani" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhargavlimbani12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhargavlimbani12" height="30" width="40" /></a>
+<a href="https://medium.com/bhargav limbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bhargav limbani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bhargavpatel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargavpatel12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@limbanibhargavm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@limbanibhargavm1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhargavlimbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavlimbani" height="30" width="40" /></a>
+</p>
 
-        nav{
-            background:#222;
-            padding:15px;
-            text-align:center;
-        }
-
-        nav a{
-            color:white;
-            text-decoration:none;
-            margin:0 15px;
-        }
-
-        section{
-            max-width:1000px;
-            margin:40px auto;
-            padding:20px;
-            background:white;
-            border-radius:10px;
-            box-shadow:0 2px 10px rgba(0,0,0,0.1);
-        }
-
-        h2{
-            margin-bottom:15px;
-            color:#0d6efd;
-        }
-
-        .project{
-            margin-bottom:20px;
-            padding:15px;
-            border-left:4px solid #0d6efd;
-            background:#f9f9f9;
-        }
-
-        footer{
-            text-align:center;
-            background:#222;
-            color:white;
-            padding:20px;
-            margin-top:40px;
-        }
-
-        .btn{
-            display:inline-block;
-            padding:10px 20px;
-            background:#0d6efd;
-            color:white;
-            text-decoration:none;
-            border-radius:5px;
-            margin-top:10px;
-        }
-    </style>
-</head>
-<body>
-
-<header>
-    <h1>Bhargav Limbani</h1>
-    <p>Software Developer | C# | ASP.NET Core | Flutter</p>
-</header>
-
-<nav>
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-</nav>
-
-<section id="about">
-    <h2>About Me</h2>
-    <p>
-        I am a Computer Engineering student passionate about software
-        development. I have experience in C#, ASP.NET Core, SQL Server,
-        Flutter, HTML, CSS, and JavaScript.
-    </p>
-</section>
-
-<section id="skills">
-    <h2>Skills</h2>
-    <ul>
-        <li>C#</li>
-        <li>ASP.NET Core MVC</li>
-        <li>SQL Server</li>
-        <li>Flutter</li>
-        <li>HTML, CSS, JavaScript</li>
-        <li>Git & GitHub</li>
-    </ul>
-</section>
-
-<section id="projects">
-    <h2>Projects</h2>
-
-    <div class="project">
-        <h3>Jay Jalaram Packaging Management System</h3>
-        <p>
-            Web-based packaging management system developed using
-            ASP.NET Core MVC and SQL Server.
-        </p>
-        <a href="https://github.com/bhargavlimbani/Jay-Jalaram-Packaging-webapp" class="btn">
-            View Project
-        </a>
-    </div>
-
-    <div class="project">
-        <h3>Contact Book Application</h3>
-        <p>
-            Contact management application built using C# and database integration.
-        </p>
-        <a href="https://github.com/bhargavlimbani/Contact-Book" class="btn">
-            View Project
-        </a>
-    </div>
-</section>
-
-<section id="contact">
-    <h2>Contact</h2>
-    <p>Email: bhargavlimbani3@gmail.com</p>
-    <p>GitHub: github.com/bhargavlimbani</p>
-    <p>LinkedIn: Add Your LinkedIn Profile</p>
-</section>
-
-<footer>
-    <p>© 2026 Bhargav Limbani. All Rights Reserved.</p>
-</footer>
-
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

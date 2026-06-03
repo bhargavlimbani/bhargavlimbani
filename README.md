@@ -6,7 +6,19 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bhargavlimbani&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhargavlimbani&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/bhargavlimbani?label=FOLLOWERS&style=for-the-badge&color=7B2FF7"/>
+
+<img src="https://img.shields.io/github/stars/bhargavlimbani?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-purple?style=for-the-badge"/>
 
 </div>
 

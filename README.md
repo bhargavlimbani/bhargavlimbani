@@ -1,20 +1,231 @@
-<h1 align="center">Hi 👋, I'm Bhargav Limbani</h1>
-<h3 align="center">A passionate frontend developer from Rajkot</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Bhargav Limbani
 
-- 🌱 I’m currently learning c++
+<div align="center">
 
-- 📫 How to reach me limbanibhargavmaheshbhai@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;⚡+React+%2B+Node.js+Developer;💻+ASP.NET+Developer;🎯+Problem+Solver;🔥+Building+Modern+Digital+Experiences;🌟+Future+Software+Engineer" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@bpatel1707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bpatel1707" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhargav limbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargav limbani" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhargavlimbani12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhargavlimbani12" height="30" width="40" /></a>
-<a href="https://medium.com/bhargav limbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bhargav limbani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhargavpatel12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargavpatel12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@limbanibhargavm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@limbanibhargavm1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhargavlimbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavlimbani" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=bhargavlimbani&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 Digital Identity
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```yaml
+Name: Bhargav Limbani
+
+Role: Full Stack Developer
+
+Education:
+  University: Marwadi University
+  Degree: B.Tech ICT
+  Graduation: 2027
+
+Location:
+  City: Gondal
+  State: Gujarat
+  Country: India
+
+Current Mission:
+  - Building Modern Web Applications
+  - Mastering React Ecosystem
+  - Learning System Design
+  - Exploring Backend Architecture
+
+Status:
+  Open For:
+    - Internship Opportunities
+    - Freelance Projects
+    - Collaborations
+```
+
+<br clear="right"/>
+
+---
+
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=c,java,dart"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 📦 Jay Jalaram Packaging Management System
+
+```diff
++ React.js
++ Node.js
++ Express.js
++ MySQL
+
+✓ Inventory Management
+✓ Order Tracking
+✓ Billing System
+✓ Customer Management
+✓ Dashboard Analytics
+```
+
+---
+
+## 📒 Contact Book
+
+```diff
++ C#
++ .NET
+
+✓ CRUD Operations
+✓ Contact Search
+✓ Data Management
+✓ User Friendly Interface
+```
+
+---
+
+## 🌐 Circuitology Club Portal
+
+```diff
++ PHP
++ HTML
++ CSS
++ MySQL
+
+✓ Event Management
+✓ Member Registration
+✓ Content Updates
+✓ Admin Control Panel
+```
+
+---
+
+# 💼 Professional Journey
+
+## 🏢 SCRIPT INDIA
+
+### Web App Development Intern
+
+```yaml
+Duration:
+  Jul 2025 - Sep 2025
+
+Experience:
+  - Developed Real World Applications
+  - Worked With REST APIs
+  - Database Management
+  - Responsive UI Development
+  - Industry Workflow Experience
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhargavlimbani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavlimbani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavlimbani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Dashboard
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhargavlimbani&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavlimbani&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```javascript
+const goals2026 = [
+  "Become Professional Full Stack Developer",
+  "Master React Ecosystem",
+  "Learn Advanced Backend Development",
+  "Build SaaS Projects",
+  "Contribute To Open Source",
+  "Land Dream Software Engineering Role"
+];
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/bhargavlimbani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhargav-limbani-111977286/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:limbanibhargavmaheshbhai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Building Today For Tomorrow
+
+### "Every expert was once a beginner who refused to quit."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,100:7B2FF7&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+
+</div>
